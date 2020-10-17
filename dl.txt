@@ -1,0 +1,28 @@
+Resource 3565 is now starved going to sleep.
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 has woken from sleep. 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 is now starved going to sleep.
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 has woken from sleep. 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 is now starved going to sleep.
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 has woken from sleep. 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 is now starved going to sleep.
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Process 3565 accessed the shared resource, num: 20 
+Resource 3565 has woken from sleep. 
+Process 3565 accessed the shared resource, num: 20 

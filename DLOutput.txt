@@ -1,0 +1,24 @@
+Counter increment: 7
+Resource 3565 now starved going to sleep.
+Counter increment: 9
+Resource 3565 has woken from sleep. 
+Process 3565 accessed the shared resource, num: 20 
+Counter increment: 10
+Counter increment: 7
+Resource 3572 now starved going to sleep.
+Counter increment: 9
+Resource 3572 has woken from sleep. 
+Process 3572 accessed the shared resource, num: 20 
+Counter increment: 10
+Counter increment: 7
+Resource 3571 now starved going to sleep.
+Counter increment: 9
+Resource 3571 has woken from sleep. 
+Process 3571 accessed the shared resource, num: 20 
+Counter increment: 10
+Counter increment: 7
+Resource 3573 now starved going to sleep.
+Counter increment: 9
+Resource 3573 has woken from sleep. 
+Process 3573 accessed the shared resource, num: 20 
+Counter increment: 10
